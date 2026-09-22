@@ -1,7 +1,7 @@
 ## Namaste 🙏🏻
 ---
 <h1 align="center">Namaste 🙏🏻, I'm <a href="https://github.com/Haze-cmyk" target="_blank">Jayesh Thakur</a></h1>
-<h3 align="center">A short, punchy tagline about what you build or love doing</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+things+with+code;Always+learning+something+new;Open+to+collaborating+on+projects!&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
