@@ -1,10 +1,6 @@
 ## Namaste 🙏🏻
-
-### Stats ⚡️
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=Haze-cmyk)
-
-<h1 align="center">Namaste 🙏🏻, I'm <a href="https://github.com/Haze-cmyk" target="_blank">Your Name</a></h1>
+---
+<h1 align="center">Namaste 🙏🏻, I'm <a href="https://github.com/Haze-cmyk" target="_blank">Jayesh Thakur</a></h1>
 <h3 align="center">A short, punchy tagline about what you build or love doing</h3>
 
 <p align="center">
@@ -47,11 +43,8 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Haze-cmyk/repo-name-1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Haze-cmyk&repo=repo-name-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Haze-cmyk/repo-name-2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Haze-cmyk&repo=repo-name-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Haze-cmyk/vidya-vrityu">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Haze-cmyk&repo=vidya-vrityu&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
