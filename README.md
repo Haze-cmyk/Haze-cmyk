@@ -15,19 +15,17 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[skill / tech]**
-- 💬 Ask me about **[your expertise]**
-- 📫 Reach me at **[your email]**
-- ⚡ Fun fact: **[something about you]**
+- 🔭 Currently working on **BLOGGING WEBSITE**
+- 🌱 Currently learning **ReactJS**
+- 💬 Ask me about **Backend**
+- 📫 Reach me at **Jayexhx01@gmail.com**
+- ⚡ Fun fact: **I love reading Books**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,figma" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,express,nodejs,mongodb,cpp,arch)](https://skillicons.dev)
 
 <!-- Swap the codes above for your real stack. Full list: https://skillicons.dev -->
 
